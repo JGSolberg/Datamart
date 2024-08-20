@@ -1,0 +1,3 @@
+2024-08-20 15:46:57,349 - root - INFO - Fetching assets data from Collibra. (main.py:62)
+2024-08-20 15:46:57,349 - root - INFO - Fetching users data from Collibra. (main.py:64)
+2024-08-20 15:46:57,349 - root - INFO - Processing assets data. (main.py:68)
